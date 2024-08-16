@@ -41,7 +41,7 @@ body {
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* Aspect ratio */
+  padding-bottom: 16.25%; /* Aspect ratio */
   height: 0;
   overflow: hidden;
 }
