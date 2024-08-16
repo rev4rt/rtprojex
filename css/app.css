@@ -47,6 +47,11 @@ body {
   border-radius: 20%;
 }
 
+.video { 
+  border-radius: 15px; 
+  overflow: hidden; 
+} 
+
 .btn-music {
     position: fixed;
     bottom: 9vh !important;
