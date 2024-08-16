@@ -44,7 +44,7 @@ body {
   padding-bottom: 16.25%; /* Aspect ratio */
   height: 0;
   overflow: hidden;
-  border-radius: 15px;
+  border-radius: 20%;
 }
 
 .btn-music {
