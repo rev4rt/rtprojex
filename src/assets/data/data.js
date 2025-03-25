@@ -1,6 +1,6 @@
 export const data = {
 	
-    api: 'https://script.google.com/macros/s/AKfycbwwfP5uQH1irDCpmTapdXijSnw8qrypbgY3BHfLP2XGGvTUcPe5Nt7TYTj2agdmpBIgRA/exec',
+    api: 'https://script.google.com/macros/s/AKfycbwEc7FF6KwTdoLSxpbmddG24O7lK6hlSBH4m6nwdKRwGubEKeGazJm2fSkhFyYN_R9Gqw/exec',
 
     navbar: [
 
